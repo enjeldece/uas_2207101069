@@ -18,7 +18,7 @@
                 <label>NAMA KOMIK</label>
                 <input type="text" class="form-control" name="nama_komik">
             </div>
-            <div>
+            <div class="mb-3">
                 <label>NO TLP</label>
                 <input type="text" class="form-control" name="no_tlp">
             </div>
@@ -27,7 +27,7 @@
                 <textarea class="form-control" name="alamat"></textarea>
             </div>
             <div class="mb-3">
-                <input type="submit" value="SIMPAN">
+                <input type="submit" value="SIMPAN" class="btn btn-primary">
             </div>
         </form>
     </div>
